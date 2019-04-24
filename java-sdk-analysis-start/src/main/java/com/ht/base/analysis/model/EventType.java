@@ -55,7 +55,9 @@ public enum EventType {
         second_module("second_module"),
         search_keyword("search_keyword"),
         is_recommend_word_used("is_recommend_word_used"),
-        is_history_word_used("is_history_word_used");
+        is_history_word_used("is_history_word_used"),
+        is_having_result("is_having_result");
+
 
         private String key;
 
